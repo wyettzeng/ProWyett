@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProWyett
+- 👋 Hi, I’m @Wyett
 - 👀 I’m interested in Making Cool Stuffs
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Projects that takes about 3-5hrs/week
